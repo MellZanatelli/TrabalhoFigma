@@ -1,0 +1,7 @@
+
+header.home{
+    display: flex;
+    flex-direction: row;
+    height: 4rem;
+    background-color: #5B03A0;
+}
