@@ -1,7 +1,32 @@
-
+*{
+    
+}
+body{
+    background-color: #010101;
+}
 header.home{
     display: flex;
     flex-direction: row;
     height: 4rem;
     background-color: #5B03A0;
+}
+
+header.home picture img{
+    height: 4rem;
+}
+
+header.home nav{
+    display: inline-flex;
+
+}
+
+header.home nav ul li{
+    display: inline-flex;
+}
+
+footer.home{
+    clear: both;
+    background: #2E1B5B url(Imagens/matinho.png);
+    background-size: 21254px;
+    height: 4rem;
 }
